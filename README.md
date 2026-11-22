@@ -133,7 +133,7 @@ A: Submit an issue in the Issues tab and we might look into it. Keep in mind tha
 ### Q: Will you add support for the Netflix Games version of Mania?
 A: No. There are several reasons for this: the APIs introduced in the port that we'd have to deal with, the pressure of having to maintain support for a version that's being frequently updated, concerns over piracy, and a general disinterest in the port. If you want to play the decomp on mobile with touch controls, there's a [mod](https://github.com/RSDKModding/RSDKv5-Example-Mods/tree/master/ManiaTouchControls) for that you can use instead.
 
-### Q: Will you do a decompilation for Sonic CD (2011) and/or Sonic 1/2 (2013)?
+### Q: Will you do a decompilation for Sonic CD (2011) and/or Sonic 1/2 (2013000)?
 A: I already have! You can find Sonic CD [here](https://github.com/RSDKModding/RSDKv3-Decompilation) and Sonic 1/2 [here](https://github.com/RSDKModding/RSDKv4-Decompilation).
 
 ### Q: Are there anymore decompilation projects in the works, such as Sonic Origins/Sonic 3 & Knuckles?
